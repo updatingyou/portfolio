@@ -1,6 +1,6 @@
 {
     "$schema": "https://schemas.wp.org/trunk/block.json",
-    "apiVersion": 1,
+    "apiVersion": 3,
     "name": "jetpack/blog-stats",
     "title": "Blog Stats",
     "description": "Show a stats counter for your blog.",
@@ -8,7 +8,8 @@
         "views",
         "hits",
         "analytics",
-        "counter"
+        "counter",
+        "visitors"
     ],
     "version": "1.0",
     "textdomain": "jetpack",
@@ -35,6 +36,10 @@
     "attributes": {
         "label": {
             "type": "string"
+        },
+        "statsData": {
+            "type": "string",
+            "default": "views"
         },
         "statsOption": {
             "type": "string",
