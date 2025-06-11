@@ -1,0 +1,716 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Projetos &#8211;  Portfolio Túlio Jorge de Brito Lopes</title>
+	<atom:link href="https://tuliolopes.info/category/projetos/feed/" rel="self" type="application/rss+xml" />
+	<link>https://tuliolopes.info/</link>
+	<description></description>
+	<lastBuildDate>Sat, 07 Jun 2025 19:55:57 +0000</lastBuildDate>
+	<language>pt-BR</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.8.1</generator>
+
+<image>
+	<url>https://tuliolopes.info/wp-content/uploads/2023/07/portfolio-60x60.png</url>
+	<title>Projetos &#8211;  Portfolio Túlio Jorge de Brito Lopes</title>
+	<link>https://tuliolopes.info/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Indústria</title>
+		<link>https://tuliolopes.info/industria/</link>
+					<comments>https://tuliolopes.info/industria/#respond</comments>
+		
+		<dc:creator><![CDATA[tuliolopes@hotmail.com]]></dc:creator>
+		<pubDate>Sun, 25 Feb 2024 13:42:30 +0000</pubDate>
+				<category><![CDATA[Projetos]]></category>
+		<guid isPermaLink="false">https://tuliolopes.info/?p=4076</guid>
+
+					<description><![CDATA[Voltar Neste tópico, vou fazer uma relação de aprendizado e contribuições que pude ter, no período em que trabalhei na Indústria; espero poder contribuir para quem pensa em fazer o mesmo ou para quem já está fazendo! &#8220; Uma das]]></description>
+										<content:encoded><![CDATA[<p style="text-align: left;"><a href="https://tuliolopes.info/o-reconhcimento/"><button>Voltar</button></a></p>
+
+<p class="has-drop-cap has-text-align-justify" style="text-align: justify;">Neste tópico, vou fazer uma relação de aprendizado e contribuições que pude ter, no período em que trabalhei na Indústria; espero poder contribuir para quem pensa em fazer o mesmo ou para quem já está fazendo! &#8220;</p>
+
+
+
+<p class="has-text-align-justify" style="text-align: justify;">Uma das principais preocupações da maioria das Empresas e não poderia ser diferente na indústria, é poder contar com os sistemas, 24h, 7 dias da semana, portanto os sistemas de Backup no que diz respeito à: Nobreak (Energia), Link de Internet / Firewall / Telefonia (Alta Disponibilidade),  Servidor (VMs / Nuvem) e por fim e não menos importante, Backup / Clone de Maquinas e equipamentos que não podem parar (Interno). Sem falar em ter todos o softwares licenciados (cuide com as auditorias, elas existem e virão &#8211; passei por 3). Já ia esquecendo de todo o hardware necessário como Roteadores Wifi (<a href="https://www.ui.com/introduction" target="_blank" rel="noopener">Ubiquiti</a>  com Unifi) Switchs, bem como câmeras de VideoMonitoramento (Analógicas e IP). E tem também os relógios ponto e as sirenes, todos utilizando softwares de controle.</p>
+<p class="has-text-align-justify" style="text-align: justify;">Tive a grata surpresa de um dia ser chamado para a utilização de um Drone, o que me deixou muito feliz pois estou sempre um busca de aprender algo novo. O modelo escolhido foi o Phantom 3 da <a href="https://www.dji.com/br" target="_blank" rel="noopener">DJI</a> (<a href="https://tuliolopes.info/wp-content/uploads/2024/02/drone.png" target="_blank" rel="noopener">Img1</a>, <a href="https://tuliolopes.info/wp-content/uploads/2024/02/controlador-drone.png" target="_blank" rel="noopener">Img2</a>). Utilizado para filmar terrenos e os telhados, onde depois as imagens eram levadas para a Diretoria, às vezes encaminhadas ao setor SESMT (Segurança do trabalho), que inspecionava os telhados em busca de possíveis problemas.</p>
+<p class="has-text-align-justify" style="text-align: justify;">Nessa gama de itens relevantes ao funcionamento da Indústria, não basta ter um de cada; &#8220;Deve-se pelo menos ter dois de tudo aquilo que não pode parar. Claro que falar é fácil, o custo de tudo isso é na verdade um grande empecilho para muitos dos negócios que estão começando. Por isso optam, por ter um de cada no máximo e torcer para que não parem. É aí que que entra o Setor de TIC na jogada. Temos a responsabilidade de deixar tudo isso funcionando. Claro que o desejável , é sempre conseguir ter uma empresa terceirizada, com um contrato de 8h mensais (mínimo), para dar aquele suporte, quando tudo parar, e te digo, &#8220;Vai parar&#8221;. Não é para assustar ninguém mas é fato. Então estejam preparados para passar algumas noites em claro, ou nem pensem em trabalhar no ramo.</p>
+<p>Bom, chega de blá blá blá, e vamos ao que interessa:</p>
+
+<p>Setores onde a TI é indispensável: </p>
+<p>Administração -TIC &#8211; Marketing &#8211; Vendas &#8211; Marketplace</p>
+<p>Engenharia &#8211; Laboratório &#8211; Protótipo / Sala Técnica</p>
+<p>Linha de Produção</p>
+<p>PCP</p>
+<p>Pós-Vendas</p>
+<p>Frota</p>
+<p>Elétrica</p>
+<p>Contabilidade</p>
+<p>RH &#8211; SESMT &#8211; Enfermaria</p>
+<hr />
+<p><strong>Administração</strong></p>
+<p class="has-text-align-justify" style="text-align: justify;">Este é o Setor, onde estão os altos cargos, Presidentes, Diretores, Gerentes, Supervisores e Encarregados de Setor. Praticamente todos utilizam o Software de Gestão e o Pacote Office. Suporte é muito necessário. Aqui se compreende desde a porta de entrada, não digo só a física e sim a Virtual, onde estão a Recepção (Telefonista / Secretária) e o Site da Empresa. Bem como o Setor de Marketing e Vendas. Importante, tudo aqui, ao ser chamado, é <strong>Urgente!</strong>, Não esqueça disso.</p>
+<p><strong>TIC</strong></p>
+<p class="has-text-align-justify" style="text-align: justify;">Antes de se começar qualquer negócio, tem de se ter em mente, que sem este setor, não será nada fácil fazer o seu negócio funcionar, mesmo que não ache necessário. Pelo menos contrate uma empresa para fazer o trabalho, se for uma pequeno negócio . Mas com certeza a Indústria não se encaixa no pequeno. Em geral se torna grande, no qual toda a TI, precisa ser gerenciada. É sempre importante frisar, que para o bom funcionamento do setor, são necessárias duas pessoas no mínimo; e devem ser muito bem engajadas, com conhecimento de boas práticas no setor. Onde o mais importante é deixar tudo funcionando como um relógio. (Não disse que é fácil).</p>
+<p class="has-text-align-justify" style="text-align: justify;">Neste setor, basicamente o colaborador se envolve  com todos os Setores da Indústria, onde os conhecimentos abaixo são postos à prova:</p>
+<p class="has-text-align-justify" style="text-align: justify;">Servidores de Impressão (Instalação e Suporte), Servidores de Arquivos (Windows ou Linux (<a href="https://www.samba.org/" target="_blank" rel="noopener">samba</a>)), Criação e Bloqueio de Usuários (Active Directory),Backup (<a href="https://www.nakivo.com/" target="_blank" rel="noopener">Nakivo</a>), Maquinas Virtuais (<a href="https://www.vmware.com/" target="_blank" rel="noopener">Vmware</a>), Firewall (<a href="https://www.sophos.com/" target="_blank" rel="noopener">Sophos</a>), E-mail (<a href="https://mail.zimbra.com/" target="_blank" rel="noopener">Zimbra</a>), Antivírus (<a href="https://www.kaspersky.com.br/" target="_blank" rel="noopener">Kasperky</a>), Telefonia Fixa Central Telefônica (Instalação e Suporte ao Sotware Intelbras &#8211; (<a href="https://www.intelbras.com/pt-br/central-telefonica-hibrida-unniti-3000" target="_blank" rel="noopener">Unnit3000)</a> e Telefonia Celular, Links de internet Redundantes (Entradas físicas distintas) bem como, de mais de um fornecedor. Nobreak (Dificilmente se tem 2) então mantenha sempre revisado; Telefonia IP, utilização de Voz Sobre IP Real. (Agora funciona). Não esquecendo toda a gama de softwares e hardwares envolvidos. (Estarei listando conforme for passando pelos setores. Quase esqueci, o uso FTP para envio de arquivos para o Site. Também a configuração e o uso de VPNs (Sophos) por parte dos colaboradores e terceiros (SotwareHouses).</p>
+<p class="has-text-align-justify" style="text-align: justify;">Entenda que a maioria das empresas hoje tem tanto servidores Windows quanto servidores Linux. O Linux está fazendo parte do dia-a-dia, então meu amigo, estude, estude e estude.</p>
+<p class="has-text-align-justify" style="text-align: justify;">Não esquecendo que para tudo isso funcionar, deve-se criar uma maneira fácil e ágil de se conseguir fazer uma abertura de chamado, onde o mesmo fique registrado para consultas futuras. Também não menos importante um local para armazenar sua Knowlogde base (ou seja, base de conhecimento), tudo aquilo que se aprendeu como resolver, com o máximo de detalhes possíveis (fotos, prints descrições etc). Optamos por utilizar o <a href="https://gitlab.com/users/sign_in" target="_blank" rel="noopener">Gitlab</a>, onde cada Issue é um chamado, podendo ser aberto por e-mail e onde se pode criar uma base de conhecimento também. E nunca deixe de ter uma planilha atualizada com todos os softwares pagos e seus devidos vencimentos, bem como todo o inventários de hardware utilizado na Empresa.</p>
+<p class="has-text-align-justify" style="text-align: justify;">Muitas empresas no início, optam por utilizar <a href="https://www.thinclientbrasil.com/o-que-e-thin-client/" target="_blank" rel="noopener">ThiClients</a> para reduzir os custos com licenças. Então saiba como configurá-los e pô-los na rede.</p>
+<p class="has-text-align-justify" style="text-align: justify;">Outra coisa importantíssima: Verifique a validade de todos os certificados digitais e procure mantê-los sob o mesmo fornecedor.</p>
+<p class="has-text-align-justify" style="text-align: justify;">Com a tecnologia global, não esqueça que os <a href="https://tecnoblog.net/noticias/2024/01/24/apple-macintosh-completa-40-anos-e-sua-influencia-segue-viva/" target="_blank" rel="noopener">Macintosh</a>, os populares Macs, estão em alta, junto com os Iphones. Então saiba como dar suporte se atualize.</p>
+<p class="has-text-align-justify" style="text-align: justify;">Agora tudo o que for feito, tem que estar dentro das diretrizes e normas da <a href="https://gaea.com.br/lgpd-e-ti/" target="_blank" rel="noopener">LGPD</a>. Por isso é sempre bom fazer um curso ou uma Pós sobre o assunto. Graças a Deus eu consegui fazer as duas coisas. Vide Link <a href="https://tuliolopes.info/certificados/" target="_blank" rel="noopener">Certificados</a>.</p>
+<p class="has-text-align-justify" style="text-align: justify;">Importante: Não importa todo seu portfolio de Hardskill (Habilidades Técnicas), suas <strong>Softskills</strong> (Habilidade com pessoas), são as que vão te manter no emprego!; Portanto; <strong>Seja sempre atencioso e Cordial, com todos!</strong></p>
+<p><strong>Laboratório</strong></p>
+<p class="has-text-align-justify" style="text-align: justify;">Onde são testados materiais e produtos (de várias marcas), os mais variados possíveis. Tendo em vista o conhecimento do Setor, dos materiais já utilizados , alguns podem ser adotados para um novo produto ou para melhoria de um já existente. Fazem uso de conversores e instrumentos. Depois de aprovados são enviados para Engenharia.</p>
+<p><strong>Engenharia</strong></p>
+<p class="has-text-align-justify" style="text-align: justify;">Neste setor pude aprender e contribuir, pois todos os softwares necessários para o funcionamento do setor, são de exclusividade da TI para sua instalação e suporte. Dentre eles o que se destaca é o <a href="https://www.solidworks.com/pt-br" target="_blank" rel="noopener">Solidworks</a> para a confecção das peças as quais farão parte de um produto que precisa ser criado e testado no setor de Protótipo. Também fazem parte, os Software de Gestão (onde cada empresa escolhe o mais adequado ao seu negócio e ao seu bolso é claro) e os conhecidos pacotes de Escritório, onde o pacote Office da Microsoft tem sido a escolha da grande maioria. Hoje contamos com o <a href="https://www.wps.com/pt-BR/" target="_blank" rel="noopener">WPS</a>, <a href="https://www.libreoffice.org/download/download-libreoffice/" target="_blank" rel="noopener">LibreOffice</a>, <a href="https://www.openoffice.org/pt-br/" target="_blank" rel="noopener">OpenOffice</a> e tantos outros gratuitos.</p>
+<p><strong>Protótipo / Sala Técnica</strong></p>
+<p class="has-text-align-justify" style="text-align: justify;">É aqui, que com todas as especificações repassadas pela Engenharia, se parte para a criação e teste do produto. Para criação, todas as medidas necessárias serão retiradas do molde feito no Solidworks e depois para a fabricação da peças no material escolhido (Material Plástico ou Metálico etc). Nesta parte a TI não se envolve. Já no teste do produto sim. Muitos são os players no mercado: Em Geral a <a href="https://www.fullgauge.com.br/" target="_blank" rel="noopener">Full Gauge</a>, é a escolhida por ter um portfolio de produtos muito usado nos protótipos que necessitam de algum controle térmico (Controladores). A Full Gauge faz uso do software <a href="https://sitrad.com.br/" target="_blank" rel="noopener">Sitrad</a>, responsável por monitorar o funcionamento, através de sensores onde ligados à conversores os quais utilizam instrumentos que fazem a leitura dos sensores acoplados aos produtos, emitindo alertas e gerando gráficos.</p>
+<p class="has-text-align-justify" style="text-align: justify;">Aprendi a utilizar desde produtos fora de linha, como o Conversor RS 485 <a href="https://tuliolopes.info/wp-content/uploads/2024/02/IMG-20230410-WA0016.jpg" target="_blank" rel="noopener">(Img1</a>, <a href="https://tuliolopes.info/wp-content/uploads/2024/02/IMG-20230410-WA0017.jpg" target="_blank" rel="noopener">Img2</a>), nesta situação se necessita do Sitrad de versões antigas, como a 3.12. Neste caso se usa 2 conversores um Master ( O principal, que fica ligado ao PC-Servidor, via USB) e o segundo, chamado Slave (escravo que ligado fisicamente a um par de fios); Vide Img2. No Slave é onde ficam ligados os instrumentos, neste caso não podendo passar de uns 200 e muitos, os quais tem sensores acoplados aos produtos. Para a configuração se utiliza o softwares e os straps (chavezinhas atrás do conversor para fazerem os dois se comunicarem). Digo a vocês que não é nada simples. Feito isso basta encontrar os instrumentos e começas a fazer as leituras. Já na versão mais nova TCP 485 / Wifi Log (<a href="https://tuliolopes.info/wp-content/uploads/2024/02/TCP-485-Wifi-log.pdf" target="_blank" rel="noopener">Img1</a>) pode-se tanto usar cabo de rede como pode ser usado sem fio (Wifi). O alcance é razoável. Mas preferi utilizar cabo de rede. Utilizei este produto dentro da sala dos servidores para ler a temperatura da saída do exaustor do nobreak, o 2º para ler a temperatura da saída de ar da Central Telefônica dentro de um rack de parede, outro sensor para medir a temperatura central da sala, o 4º sensor, para ler a saída de ar dos servidores. Tudo em tempo real. A diferenças chegava aos 5ºC.Por isso a importância de no Setor de TI , se utilizar no mínimo 2 monitores para cada Colaborador. Onde pode-se deixar um monitor só para o monitoramento. Clique no link para entender o funcionamento do <a href="https://tuliolopes.info/wp-content/uploads/2024/02/sitrad.png" target="_blank" rel="noopener">Sitrad!</a> Claro que depois de tudo funcionando, repassar sempre o conhecimento ao colega do setor. (Vide TIC, Knowlogde base).</p>
+<p><strong>PCP</strong></p>
+<p class="has-text-align-justify" style="text-align: justify;">Basicamente é onde a coisa acontece ou deixa de acontecer. Aqui se faz o levantamento de todos os custos, material e mão de obra necessários para a produção da peça ou produto. Se calcula, com o que se tem em casa, desde ferramental, a hora máquina e o tempo / quantos  funcionários se necessita para produzir. Quanto será seu custo final e o valor provável de venda. Se tudo estiver dentro de padrões pré-definos, se encaminha de volta para a Engenharia. Utilização de Computador, Impressora, e-mail e o Pacote Office, basicamente o Excel.</p>
+<p><strong>Linha de produção</strong></p>
+<p class="has-text-align-justify" style="text-align: justify;">Claro que no século 21, praticamente todas as linhas de produção estão ou necessitam se atualizar, portanto o uso do Computador é indispensável. Tanto na elaboração dos planos de produção (Supervisão), até a embalagem.</p>
+<p class="has-text-align-justify" style="text-align: justify;">O uso do<a href="https://tuliolopes.info/wp-content/uploads/2024/02/leitor-de-cod-de-barras.png" target="_blank" rel="noopener"> leitor de código de barras sem fio</a> não é mais um conforto e sim necessidade. E como o turnover (a rotatividade) é grande, não só pela troca do funcionário pelo RH, mas sim pelos turnos da Indústria. Necessitando sim às vezes o reparo bem como a troca do equipamento. Portanto tenha sempre uns 3 ou 4 de reserva, (se der é claro). Assim que chegam os produtos da linha de montagem eles passam por um Teste Elétrico, onde os player com quem trabalhei, foram a <a href="https://lhf.ind.br/" target="_blank" rel="noopener">LHF</a> e a <a href="https://www.unitag.com.br/" target="_blank" rel="noopener">UNITAG</a>. A LHF é basicamente uma cabine inteira de instrumentos  (atualmente o equipamento é menor) um Computador acoplado com software que faz a leitura da tensão, aterramento e rigidez do produto; este ligado ao LHF por sua tomada de energia. Ao final pode ser emitido uma etiqueta de aprovado se for o caso. Cria-se as receitas de cada produto, contendo sua tensão máxima e vários outros parâmetros, os quais o Setor de laboratório é quem trabalha nisso. Havia uma para cada linha de produção. A UNITAG adquirida era portátil, só não acompanhava um computador, havia um software que também necessitava ser instalado e configurado em cum computador e a conexão era feita por cabo USB/Serial. Existe a necessidade e fornecedores diferentes para que quando da aferição dos produtos não haja nenhuma discrepância entre os testes. Na linha de produção tbm se faz uso de conversores e instrumentos para verificar se o produto está funcionando como o esperado. Aprendi muito neste setor.</p>
+<p><strong>Pós-Vendas</strong></p>
+<p class="has-text-align-justify" style="text-align: justify;">Setor importante, onde desde dúvidas de como instalar o produto da melhor maneira até constatar um defeito e pedir informações de como resolver ou até a troca ou devolução do mesmo. Onde entra o Setor de Logística Reversa. Existem técnicos que se deslocam até o cliente PF ou PJ, que dependendo do problema é cobrado ou não. Utilização de chat comercial, com configuração dos celulares empresarias para isso. Uso do Software de Gestão, pacote Office e e-mail. Bom saber como gerenciar um software de gravações telefônicas. Mas fique atento ao que diz a LGD.</p>
+<p><strong>Marketing &#8211; Vendas &#8211; Marketplace</strong></p>
+<p class="has-text-align-justify" style="text-align: justify;">O Setor de Vendas/<a href="https://www.ideianoar.com.br/marketplace/" target="_blank" rel="noopener"> Marketplace</a>, junto com o Marketing constrói as estratégias de vendas. O Marketing utiliza tanto ferramentas da <a href="https://www.adobe.com/br/" target="_blank" rel="noopener">Adobe</a> quanto da <a href="https://www.coreldraw.com/" target="_blank" rel="noopener">Corel</a>, portanto saiba instalá-las e dar suporte no que for necessário. Todos setores utilizam o software de gestão. Já o Marketplace faz uso de chatbots no dia-a-dia. Toda a empresa tem um site que deve ser alimentado, fotos e preços atualizados. Em geral se tem um empresa que faz isso ou pelo menos um MEI terceirizado. As imagens em geral são Upadas (enviadas para a nuvem) por FTP. Uso de telefonia fixa e celular também é muito importante para o setor, bem como o uso de chats.</p>
+<p class="has-text-align-justify" style="text-align: justify;"><strong>Frota</strong></p>
+<p class="has-text-align-justify" style="text-align: justify;">Na Frota o dodói é o sistema de Controle e/ou Gestão de Frota, onde cada veículo ganha, como se fosse um localizador GPS onde alguns podem ou não contar com acionamento / desligamento do veículo. Neste caso específico, muitas vezes temos que liberar no Firewall o destino destes sites. Sempre vale à pena conversar com o pessoal de TI deles, claro se for necessário. Ás vezes necessita a liberação de algumas portas (no firewall) também. A telefonia celular e chats são usados com frequência neste setor.</p>
+<p class="has-text-align-justify" style="text-align: justify;"><strong>Elétrica</strong></p>
+<p class="has-text-align-justify" style="text-align: justify;">Muito cuidado, este setor pode se tornar o calcanhar de Aquiles da TI, pois somos totalmente dependente de eletricidade para o funcionamento do nosso setor. Portanto mantenha sempre um ótimo relacionamento com este pessoal. Uma dica faça com que fiquem te devendo favor.  Ajude-os no que puder, seja prestativo, e sempre poderá contar com eles. Eletricistas são entusiastas de TI, então como se diz, troque figurinhas e vai se dar bem. A grande maioria dos sistemas elétricos necessitam de um software de monitoramento. O mais usado no momento é o <a href="https://blog.rio-tech.com.br/clp-o-que-e-beneficios-e-aplicacoes/" target="_blank" rel="noopener">CLP</a>. Na maioria das empresas / indústrias, os eletricistas, por ter as<a href="https://safetytrab.com.br/blog/nr-35-o-que-e-e-o-que-diz-a-norma-para-trabalho-em-altura/" target="_blank" rel="noopener"> NR</a>s necessárias para se poder acessar os pontos mais altos dos prédios, são eles quem passam os cabos de rede, fazem a instalação e manutenção da câmeras de videomonitoramento, colocam ou retiram os roteadores Wifi etc,  para a TI.</p>
+<p class="has-text-align-justify" style="text-align: justify;"><strong>Contabilidade</strong></p>
+<p class="has-text-align-justify" style="text-align: justify;">É aqui que se separa &#8220;O cara da TI&#8221; dos demais técnicos, pode achar que é fácil instalar uns 50 a 100 programas diferentes, cada um com sua base de dados e todos funcionarem bem. Cada um com uma peculiaridade; ou só funciona se for com base no winxp/win7 e assim vai; só roda se for como administrador, tem que rodar só no Internet Explorer, necessita de flash, Net frameWork 3.5, outro do 4.0, rapaz é uma salada de fruta, quando acha que tudo está ok, começam os problemas de conflito, é uma verdadeira batalha. Se tiver programa de Banco envolvido, aí ferrou. O Antivírus pega algo, o firewall outro pouco; é realmente uma dor de cabeça. Mas não se aflijam, nada que buscar ajuda na Net ou em fóruns que não resolva. E se tudo não resolver espere a próxima versão ou baixe a anterior. Só de digitar isso a minha pressão aumentou uns 3 pontos! Só uma coisa, não fique perdendo muito tempo, se não funcionar, separem os mais complicados para outro PC de outro funcionário / colaborador, em geral a Contabilidade sempre conta com 2 ou mais computadores. O certificado digital é de essencial importância para a Contabilidade.</p>
+<p><strong>RH &#8211; SESMT &#8211; Enfermaria &#8211; Portaria</strong></p>
+<p class="has-text-align-justify" style="text-align: justify;">O Setor de RH, como a Contabilidade necessita de uma gama de softwares. Além do software de gestão , muitos não possuem ou não atendem o RH por já existir no mercado players muito bons , onde não vale à pena criar a roda, como se diz. Então tanto a <a href="https://www.senior.com.br/" target="_blank" rel="noopener">Senior</a> como vários outros, tem este nicho de mercado. Além disso o RH, conta com sistemas de relógio Ponto (milhares de modelos), Programas para webcam (720HD ou 1080Full HD)para o registro do funcionário. Impressora Multifuncional, Celular (com chatbot), Pacote Office, editores de imagem e por ai vai&#8230;</p>
+<p class="has-text-align-justify" style="text-align: justify;">O SESMT, responde em geral ao RH mas também a Direção da empresa, devido á ligação recente com os planos PPCI de prevenção de incêndio, onde a Diretoria, faz toda a requisição e aprovação do projeto, tudo por certificação digital. Este setor cobra a TI como corresponsável pelo terceiro que entra na empresa. Onde qualquer instalação que necessite subir em escadas deve ser solicitado ao SESMT; Onde é a verificado as NRs (enviadas à posteriori para a Indústria) e é feita a verificação dos EPIs (Equipamentos de Segurança).Até mesmo para se por os cones em volta da escada caso necessário. Sem isso, esqueça! <strong>Sempre avise o SESMT.</strong></p>
+<p class="has-text-align-justify" style="text-align: justify;">A Enfermaria, faz uso do software de gestão, impressora multifuncional.. E com as mudanças na legislação, acostume-se a ligar muito para a SoftwareHouse. o Setor irá pedir alterações e melhorias. No que diz respeito à saúde, é tudo muito burocrático. Testes e mais testes, isso nunca acaba.</p>
+<p class="has-text-align-justify" style="text-align: justify;">E por fim a Portaria; Aqui você praticamente virá por 4 coisas: O sistema de videomonitoramento (câmeras e rede), Os relógios ponto (bobina, guilhotina e rede), a balança para caminhões (bobina, cartucho, software e rede) e a sirene (se tocar fora do horário / adiantada ou atrasada).</p>
+<p>&nbsp;</p>
+<p style="text-align: right;"><a href="https://tuliolopes.info/industria/"><button>Topo</button></a></p>]]></content:encoded>
+					
+					<wfw:commentRss>https://tuliolopes.info/industria/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">4076</post-id>	</item>
+		<item>
+		<title>Então a Especialização&#8230;</title>
+		<link>https://tuliolopes.info/entao-a-especializacao/</link>
+					<comments>https://tuliolopes.info/entao-a-especializacao/#respond</comments>
+		
+		<dc:creator><![CDATA[tuliolopes@hotmail.com]]></dc:creator>
+		<pubDate>Sun, 07 Jan 2024 15:06:39 +0000</pubDate>
+				<category><![CDATA[Projetos]]></category>
+		<guid isPermaLink="false">https://tuliolopes.info/?p=3994</guid>
+
+					<description><![CDATA[Voltar A Pós Graduação em Direito Aplicado, Compliance e LGPD, surgiu quando da minha contratação na Venax, onde fui direcionado à um curso de LGPD, o qual abriu meus olhos para essa nova prioridade. Com isso em mente, resolvi procurar]]></description>
+										<content:encoded><![CDATA[<p><a href="https://tuliolopes.info/jci-um-novo-convite/"><button>Voltar</button></a></p>
+<p class="has-drop-cap has-text-align-justify" style="text-align: justify;">A Pós Graduação em Direito Aplicado, Compliance e LGPD, surgiu quando da minha contratação na Venax, onde fui direcionado à um curso de <a href="https://tuliolopes.info/uma-nova-porta-se-abre/" target="_blank" rel="noopener">LGPD</a>, o qual abriu meus olhos para essa nova prioridade. Com isso em mente, resolvi procurar no mercado, um curso que me deixa-se a par do assunto e pudesse contribuir para que fosse implantada na empresa. A LGPD tem a a área de T.I. como um de seus alicerces. Portanto me especializar no assunto nada mais é, do que dar continuidade ao meu trabalho. Obrigado Venax!</p>
+<p>Foram 9 meses, 360h de empenho e dedicação. Então ao final mais um <a href="https://tuliolopes.info/wp-content/uploads/2024/01/Certificado-Posgraduacao-DACLGPD.pdf" target="_blank" rel="noopener">Aprendizado!</a></p>
+<p><img fetchpriority="high" decoding="async" class="alignnone size-full" src="https://tuliolopes.info/wp-content/uploads/2024/01/grade-daclgpd.png" width="814" height="785" /></p>
+<p><a href="https://tuliolopes.info/jci-um-novo-convite/"><button>Voltar</button></a></p>
+<p style="text-align: right;"><a href="https://tuliolopes.info/entao-a-especializacao/"><button>Topo</button></a></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://tuliolopes.info/entao-a-especializacao/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">3994</post-id>	</item>
+		<item>
+		<title>JCI, um novo convite&#8230;</title>
+		<link>https://tuliolopes.info/jci-um-novo-convite/</link>
+					<comments>https://tuliolopes.info/jci-um-novo-convite/#respond</comments>
+		
+		<dc:creator><![CDATA[tuliolopes@hotmail.com]]></dc:creator>
+		<pubDate>Tue, 08 Aug 2023 00:40:03 +0000</pubDate>
+				<category><![CDATA[Projetos]]></category>
+		<guid isPermaLink="false">https://tuliolopes.info/?p=3583</guid>
+
+					<description><![CDATA[Voltar Na primeira semana do mês de Julho de 2023, eu como já sabem , membro Sênior da JCI-Venâncio Aires, fui convidado à participar de palestras que aconteceriam durante o Encontro Regional que seria realizado em nossa cidade. Evento promovido]]></description>
+										<content:encoded><![CDATA[<p><a href="https://tuliolopes.info/uma-nova-porta-se-abre/"><button>Voltar</button></a></p>
+<p class="has-drop-cap has-text-align-justify" style="text-align: justify;">Na primeira semana do mês de Julho de 2023, eu como já sabem , membro Sênior da JCI-Venâncio Aires, fui convidado à participar de palestras que aconteceriam durante o Encontro Regional que seria realizado em nossa cidade. Evento promovido por todos meus ex-companheiros de organização.</p>
+<p>Evento conforme o Convite:</p>
+<p style="text-align: justify;"><img decoding="async" class=" wp-image-3596 alignleft" style="border-style: none;" src="https://tuliolopes.info/wp-content/uploads/2023/08/c0f7f5ed-6963-4452-a1e3-13753a2f3fb1-300x300.jpg" alt="" width="379" height="379" srcset="https://tuliolopes.info/wp-content/uploads/2023/08/c0f7f5ed-6963-4452-a1e3-13753a2f3fb1-300x300.jpg 300w, https://tuliolopes.info/wp-content/uploads/2023/08/c0f7f5ed-6963-4452-a1e3-13753a2f3fb1-270x270.jpg 270w, https://tuliolopes.info/wp-content/uploads/2023/08/c0f7f5ed-6963-4452-a1e3-13753a2f3fb1-230x230.jpg 230w, https://tuliolopes.info/wp-content/uploads/2023/08/c0f7f5ed-6963-4452-a1e3-13753a2f3fb1-150x150.jpg 150w, https://tuliolopes.info/wp-content/uploads/2023/08/c0f7f5ed-6963-4452-a1e3-13753a2f3fb1-768x768.jpg 768w, https://tuliolopes.info/wp-content/uploads/2023/08/c0f7f5ed-6963-4452-a1e3-13753a2f3fb1-1024x1024.jpg 1024w, https://tuliolopes.info/wp-content/uploads/2023/08/c0f7f5ed-6963-4452-a1e3-13753a2f3fb1-144x144.jpg 144w, https://tuliolopes.info/wp-content/uploads/2023/08/c0f7f5ed-6963-4452-a1e3-13753a2f3fb1-450x450.jpg 450w, https://tuliolopes.info/wp-content/uploads/2023/08/c0f7f5ed-6963-4452-a1e3-13753a2f3fb1-60x60.jpg 60w, https://tuliolopes.info/wp-content/uploads/2023/08/c0f7f5ed-6963-4452-a1e3-13753a2f3fb1-550x550.jpg 550w, https://tuliolopes.info/wp-content/uploads/2023/08/c0f7f5ed-6963-4452-a1e3-13753a2f3fb1.jpg 1300w" sizes="(max-width: 379px) 100vw, 379px" /> No sábado, dia 15/07/2023, dia lindo , peguei meu chimarrão e as 15:40, lá estava eu, em frente a SOVA (Sociedade Olímpica de Venâncio Aires); Logo na chegada avisto muitos conhecidos com adereços da JCI, e me alegrando em saber que fazem parte da organização!</p>
+<p style="text-align: justify;">Já com os braceletes em mãos subindo a escadaria, me ocorreu que não seria uma simples palestra e sim uma parte do Encontro Regional da JCI, onde desde o meu ingresso na organização em 2011 e a minha saída em 2015 (devido o nascimento da minha filha mais velha), nunca havia tido um ER em VA.</p>
+<p style="text-align: justify;">Era um acontecimento para todos nós da OL (organização local). A surpresa foi maior ainda quando dei de cara com minha mentora, a Senadora Carmem Druciaki (Quem me levou para a JCI, colega de Alemão no colégio Gaspar Silveira Martins). Não nos sentamos próximos, pois eu estava interessado em sentar bem à frente para poder prestar atenção nas palestras, pois sendo um ER, teríamos pessoas de todo o estado, havia principalmente jovens cheios de hormônios e com isso barulhentos, mas todos foram muito comedidos. <a href="https://tuliolopes.info/wp-content/uploads/2023/08/IMG_20230715_164817915-1-scaled.jpg" target="_blank" rel="noopener">Link1</a>, <a href="https://tuliolopes.info/wp-content/uploads/2023/08/IMG_20230715_164658169-1-scaled.jpg" target="_blank" rel="noopener">Link2,</a><a href="https://tuliolopes.info/wp-content/uploads/2023/08/IMG_20230715_163527060-1-scaled.jpg" target="_blank" rel="noopener">Link3</a>.</p>
+<p style="text-align: justify;">O painel tinha tudo a ver comigo, Tecnologia, Educação e Empreendedorismo, não podia perder! Estava quase salivando por aquele momento.</p>
+<p style="text-align: justify;">Então o Reitor da Unisc sobe ao palco, claro depois de toda a pompa das apresentações que só a JCI sabe fazer. Rafael Heinen irmão de um amigo nosso, ele se apresenta e apresenta os demais convidados Simone Stulp &#8211; Secretária de Ciência e Inovação do Estado do Rio Grande do Sul, Junior Hass &#8211; Diretor da Madereira Haas e Cássia Hoelzel (filha do Dono) a Frente da Inovação da Mercur.</p>
+<p style="text-align: justify;">Nem preciso dizer que eu me senti o cara mais sortudo do mundo, só por estar ali e poder absorver um pouco, do que cada um deles, tinha a dizer sobre todo o cenário atual em suas respectivas áreas. Foi simplesmente fascinante! O que posso dizer: &#8220;Quem não foi, não perdeu só um sábado, perdeu 4 vidas de experiência!&#8221;. A conversa terminou quase às 22:00.</p>
+<p>Bom o filé mignon, foi realmente no sábado; Mas o domingo foi de reflexão e interiorização!</p>
+<p><img decoding="async" class="wp-image-3591 alignleft" src="https://tuliolopes.info/wp-content/uploads/2023/08/palestra-16-07-jci-300x300.jpg" alt="" width="237" height="237" srcset="https://tuliolopes.info/wp-content/uploads/2023/08/palestra-16-07-jci-300x300.jpg 300w, https://tuliolopes.info/wp-content/uploads/2023/08/palestra-16-07-jci-270x270.jpg 270w, https://tuliolopes.info/wp-content/uploads/2023/08/palestra-16-07-jci-230x230.jpg 230w, https://tuliolopes.info/wp-content/uploads/2023/08/palestra-16-07-jci-150x150.jpg 150w, https://tuliolopes.info/wp-content/uploads/2023/08/palestra-16-07-jci-144x144.jpg 144w, https://tuliolopes.info/wp-content/uploads/2023/08/palestra-16-07-jci-450x450.jpg 450w, https://tuliolopes.info/wp-content/uploads/2023/08/palestra-16-07-jci-60x60.jpg 60w, https://tuliolopes.info/wp-content/uploads/2023/08/palestra-16-07-jci.jpg 526w" sizes="(max-width: 237px) 100vw, 237px" /></p>
+<p><img loading="lazy" decoding="async" class="wp-image-3604 alignleft" src="https://tuliolopes.info/wp-content/uploads/2023/08/palestra-16-07-1-jci-1-300x300.jpg" alt="" width="236" height="236" srcset="https://tuliolopes.info/wp-content/uploads/2023/08/palestra-16-07-1-jci-1-300x300.jpg 300w, https://tuliolopes.info/wp-content/uploads/2023/08/palestra-16-07-1-jci-1-270x270.jpg 270w, https://tuliolopes.info/wp-content/uploads/2023/08/palestra-16-07-1-jci-1-230x230.jpg 230w, https://tuliolopes.info/wp-content/uploads/2023/08/palestra-16-07-1-jci-1-150x150.jpg 150w, https://tuliolopes.info/wp-content/uploads/2023/08/palestra-16-07-1-jci-1-144x144.jpg 144w, https://tuliolopes.info/wp-content/uploads/2023/08/palestra-16-07-1-jci-1-450x450.jpg 450w, https://tuliolopes.info/wp-content/uploads/2023/08/palestra-16-07-1-jci-1-60x60.jpg 60w, https://tuliolopes.info/wp-content/uploads/2023/08/palestra-16-07-1-jci-1.jpg 526w" sizes="auto, (max-width: 236px) 100vw, 236px" /></p>
+<p><img loading="lazy" decoding="async" class="wp-image-3595 alignnone" src="https://tuliolopes.info/wp-content/uploads/2023/08/a7b9b8d4-119f-489a-8aa2-e74d3d476f0d-300x300.jpg" alt="" width="236" height="236" srcset="https://tuliolopes.info/wp-content/uploads/2023/08/a7b9b8d4-119f-489a-8aa2-e74d3d476f0d-300x300.jpg 300w, https://tuliolopes.info/wp-content/uploads/2023/08/a7b9b8d4-119f-489a-8aa2-e74d3d476f0d-270x270.jpg 270w, https://tuliolopes.info/wp-content/uploads/2023/08/a7b9b8d4-119f-489a-8aa2-e74d3d476f0d-230x230.jpg 230w, https://tuliolopes.info/wp-content/uploads/2023/08/a7b9b8d4-119f-489a-8aa2-e74d3d476f0d-150x150.jpg 150w, https://tuliolopes.info/wp-content/uploads/2023/08/a7b9b8d4-119f-489a-8aa2-e74d3d476f0d-768x768.jpg 768w, https://tuliolopes.info/wp-content/uploads/2023/08/a7b9b8d4-119f-489a-8aa2-e74d3d476f0d-1024x1024.jpg 1024w, https://tuliolopes.info/wp-content/uploads/2023/08/a7b9b8d4-119f-489a-8aa2-e74d3d476f0d-1536x1536.jpg 1536w, https://tuliolopes.info/wp-content/uploads/2023/08/a7b9b8d4-119f-489a-8aa2-e74d3d476f0d-144x144.jpg 144w, https://tuliolopes.info/wp-content/uploads/2023/08/a7b9b8d4-119f-489a-8aa2-e74d3d476f0d-450x450.jpg 450w, https://tuliolopes.info/wp-content/uploads/2023/08/a7b9b8d4-119f-489a-8aa2-e74d3d476f0d-60x60.jpg 60w, https://tuliolopes.info/wp-content/uploads/2023/08/a7b9b8d4-119f-489a-8aa2-e74d3d476f0d-550x550.jpg 550w, https://tuliolopes.info/wp-content/uploads/2023/08/a7b9b8d4-119f-489a-8aa2-e74d3d476f0d.jpg 1600w" sizes="auto, (max-width: 236px) 100vw, 236px" /></p>
+<p style="text-align: justify;">O Thainan, nos deu uma aula incrível de comportamento e contemporaneidade! Realmente uma viagem de conhecimento, vale à pena escutar o que ele tem a dizer.</p>
+<p style="text-align: justify;">Já a Camila Mai, nos mostrou como é importante termos consciência de que precisamos comer melhor e nos exercitar; Pelo menos, para quando envelhecermos consigamos sentar e levantar do vaso sanitário sem ajuda! Foi literalmente um tapa na cara, tipo acorda aí que o tempo urge!</p>
+<p style="text-align: justify;">Ao final Guto Niche, nos mostrou como devemos nos portar, nesta era onde a IA está a nossa porta e temos que entender como nos expressar nesse mundo novo. Como empreender em uma loja física, ter estoque já não importa mais. Como as relações estão se banalizando e o que realmente importa e com que realmente gastar o nosso tempo! A família tem que ser o centro de tudo, então não se pode abraçar tudo, sem ao menos ter abraçado um irmão ou um pai ou até um filho! Então das 09:30 até as 19:00 o domingo acaba, com gostinho de quero mais!</p>
+<p>Muito obrigado <a href="https://www.facebook.com/jcivenancio/?locale=pt_BR" target="_blank" rel="noopener">JCI-Venâncio Aires</a>!</p>
+<p><a href="https://tuliolopes.info/uma-nova-porta-se-abre/"><button>Voltar</button></a></p>
+<p style="text-align: right;"><a href="https://tuliolopes.info/entao-a-especializacao/"><button>Avançar</button></a></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://tuliolopes.info/jci-um-novo-convite/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">3583</post-id>	</item>
+		<item>
+		<title>Uma nova porta se abre&#8230;</title>
+		<link>https://tuliolopes.info/uma-nova-porta-se-abre/</link>
+		
+		<dc:creator><![CDATA[tuliolopes@hotmail.com]]></dc:creator>
+		<pubDate>Fri, 17 Jun 2022 22:54:42 +0000</pubDate>
+				<category><![CDATA[Projetos]]></category>
+		<guid isPermaLink="false">https://tuliolopes.info/?p=2246</guid>
+
+					<description><![CDATA[Voltar Aos 04 dias do 4º mês do ano de 2022 &#8220;Auspicioso&#8221;, começo uma nova jornada. Agora em uma das empresas de que mais me orgulho em trabalhar: Na Venax Eletrodomésticos Ltda, volto às origens (Finalmente), após praticamente 08 anos]]></description>
+										<content:encoded><![CDATA[<p><a href="https://tuliolopes.info/resiliencia/"><button>Voltar</button></a></p>
+
+<p class="has-drop-cap has-text-align-justify" style="text-align: justify;">Aos 04 dias do 4º mês do ano de 2022 &#8220;Auspicioso&#8221;, começo uma nova jornada. Agora em uma das empresas de que mais me orgulho em trabalhar:</p>
+<table style="border-collapse: collapse; width: 99.6128%; height: 164px;">
+<tbody>
+<tr style="height: 79px;">
+<td style="width: 100%; height: 15px; border-style: none; text-align: center;">
+<p><a href="http://www.venax.com.br/"><img loading="lazy" decoding="async" class="aligncenter" src="https://tuliolopes.info/files/2022/08/venax1.png?w=231" alt="" width="391" height="130" data-wp-editing="1" /></a></p>
+</td>
+</tr>
+</tbody>
+</table>
+<p style="text-align: justify;"><span style="font-size: 12pt; text-align: justify;">Na Venax Eletrodomésticos Ltda, volto às origens (Finalmente), após praticamente 08 anos fora do mercado (por motivos já descritos anteriormente). Estou à frente da do Setor de T.I. (Tecnologia da Informação), onde tenho um estagiário (a), que trocam de tempos em tempos, conforme seus interesses e habilidades.</span></p>
+<p style="text-align: justify;"></p>
+<p style="text-align: justify;"></p>
+<p style="text-align: justify;">Digo à vocês que o desafio é grande, mas nada mais prazeroso do que deixar nossa marca naquilo que se faz com tanta dedicação.</p>
+<p style="text-align: justify;"></p>
+<p style="text-align: justify;"></p>
+<p style="text-align: justify;">Bem, após ingressar neste novo projeto, já no primeiro mês, me deparo com mais um curso. Junto ao setor jurídico, dos dias 17 de maio à 15 de junho de 2022, realizei o Curso:</p>
+<p style="text-align: justify;"></p>
+<p style="text-align: justify;"></p>
+<figure style="text-align: justify;"><img decoding="async" src="https://tuliolopes.info/files/2022/06/image-1.png?w=211" alt="" /></figure>
+<p style="text-align: justify;"></p>
+<p style="text-align: justify;"></p>
+<figure style="text-align: justify;"><img decoding="async" src="https://tuliolopes.info/files/2022/06/image.png?w=1024" alt="" /></figure>
+<p style="text-align: justify;"></p>
+<p style="text-align: justify;"></p>
+<p style="text-align: justify;">Há muito desejava fazê-lo, mas não consegui. Eu já tinha em mente, e o universo fez acontecer.</p>
+<p style="text-align: justify;"></p>
+<p style="text-align: justify;"></p>
+<p style="text-align: justify;">Lei Geral de Proteção de Dados, em vigência desde 2020, trouxe diversas transformações em diferentes setores e serviços, representando um marco na regulamentação sobre o tratamento de dados Pessoais no Brasil, tanto em meios físicos quanto em plataformas digitais. Buscando a criação de um cenário de segurança jurídica, com a padronização de regulamentos e práticas para promover a proteção aos dados pessoais.</p>
+<p style="text-align: justify;"></p>
+<p style="text-align: justify;"></p>
+<p style="text-align: justify;">Para você entender sua aplicação e normas, o Instituto Euvaldo Lodi (IEL/RS) em parceria com o Conselho de Relações do Trabalho (Contrab) da FIERGS, promoveu o curso Entendendo LGPD: Aspectos Gerais e Práticos. O participante estará apto a identificar os conceitos e conteúdos relacionados à Proteção de Dados, e terá noções básicas e práticas para estruturação da implantação da Lei Geral de Proteção de Dados.</p>
+<p style="text-align: justify;"></p>
+<p style="text-align: justify;"></p>
+<hr />
+<p style="text-align: justify;"></p>
+<p style="text-align: justify;"></p>
+<h3 class="wp-block-heading" style="text-align: justify;">Cronograma:</h3>
+<p style="text-align: justify;"></p>
+<p style="text-align: justify;"></p>
+<p style="text-align: justify;"><strong>AULA 1 |</strong> <strong>17/05:</strong> Conceitos da Legislação; Fundamentos e Princípios norteadores da proteção de dados pessoais e Bases Legais para o tratamento de dados pessoais e de dados pessoais sensíveis. Com Rosangela Benetti e Eliana Herzog<br /><strong>AULA 2 | 19/05:</strong> Mapeamento de Dados (Inventário; Fluxo; Higienização) e Relatório, com Ana Cristina Quevedo e Benícia Montelli<br /><strong>AULA 3 | 24/05: </strong>ANPD e Vazamento de Dados: como proceder, com Renata Kerkhoff<br /><strong>AULA 4 | 26/05: </strong>Papel, competências e requisitos para o Encarregado de Dados (DPO) e o Comitê ou Grupo de Trabalho de Proteção de Dados. Com Ana Cristina Quevedo e Benícia Montelli<br /><strong>AULA 5 |</strong> <strong>31/05:</strong> LGPD aplicada ao RH, com Alessandra Lucchese<br /><strong>AULA 6 |</strong> <strong>02/06:</strong> LGPD aplicada a Contratos, com Ana Caroline Braun<br /><strong>AULA 7 |</strong> <strong>07/06:</strong> LGPD aplicada ao Marketing e e-commerce, com Regis Bronzatti<br /><strong>AULA 8 |</strong> <strong>09/06:</strong> LGPD e Compliance, com Eliana Herzog<br /><strong>AULA 9 | 14/06: </strong>LGPD aplicada a Tecnologia da Informação, com André Mazeron<br /><strong>AULA 10 |</strong> <strong>15/06:</strong> Noções básicas para construção de Políticas Específicas em Proteção de Dados: Privacidade de Dados; uso da Internet para colaboradores e terceiros; BYOD; Acesso Remoto para colaboradores e terceiros; Transferência internacional de dados; segurança de documentos físicos. Com Alessandra Lucchese e Eliana Herzog</p>
+<p style="text-align: justify;"></p>
+<p style="text-align: justify;"></p>
+<p style="text-align: justify;">O curso teve duração de 10 encontros, com aulas duas vezes por semana.<br />As aulas foram virtuais, ao vivo e interativas</p>
+<p style="text-align: justify;"></p>
+<p style="text-align: justify;"></p>
+<p style="text-align: justify;">Datas: de 17/05/2022 a 15/06/2022, terças e quintas, das 9h às 12h<br />Duração: 30 horas</p>
+<p style="text-align: justify;"></p>
+<p style="text-align: justify;"></p>
+<p style="text-align: justify;">Fomos a primeira turma, sou muito grato pela oportunidade; também com novos colegas, já criamos um grupo onde nos apoiaremos.</p>
+<p style="text-align: justify;"></p>
+<p style="text-align: justify;"></p>
+<p style="text-align: justify;">Então mais um certificado: <a href="https://tuliolopes.info/files/2022/06/certificado-lgpd.jpg" target="_blank" rel="noreferrer noopener">clique aqui</a></p>
+<p style="text-align: justify;"></p>
+<p style="line-height: 1.4; text-align: justify;"><!-- /wp:post-content --></p>
+<p style="text-align: justify;"><!-- wp:image {"id":2346,"sizeSlug":"large","linkDestination":"none"} --></p>
+<figure>
+<table>
+<tbody>
+<tr style="border-style: none;">
+<td style="border-style: none;"><img loading="lazy" decoding="async" class="aligncenter" src="https://tuliolopes.info/files/2022/06/curso-informatica.jpg?w=499" alt="" width="537" height="154" /></td>
+</tr>
+</tbody>
+</table>
+</figure>
+<p style="line-height: 1.4; text-align: justify;"><!-- /wp:image --></p>
+<p style="text-align: justify;"><!-- wp:paragraph {"align":"justify"} --></p>
+<p style="text-align: justify;">Dentro de todos os meus afazeres, com o apoio da Venax, montamos a 1º Turma do Curso de Informática Básica para os funcionários. Então por um período de 2 meses com aulas de 1h de duração duas vezes na semana, se deu o curso que me deixou muito orgulhoso de trabalhar nesta grande Empresa.</p>
+<p style="line-height: 1.4; text-align: justify;"><!-- /wp:paragraph --></p>
+<p style="text-align: justify;"><!-- wp:paragraph --></p>
+<p style="text-align: justify;"><a href="https://tuliolopes.info/wp-content/uploads/2022/06/img_20230322_160134289_burst000_cover_top-scaled.jpg" target="_blank" rel="noreferrer noopener">Link1</a> e <a href="https://tuliolopes.info/wp-content/uploads/2022/06/img_20230322_160133024-scaled.jpg" target="_blank" rel="noreferrer noopener">Link2</a></p>
+<p style="line-height: 1.4; text-align: justify;"><!-- /wp:paragraph --></p>
+<p style="text-align: justify;"><!-- wp:paragraph --></p>
+<p style="text-align: justify;">Com todos os benefícios que ainda tenho na Empresa, a Venax paga quase que integralmente minha <strong>Pós Graduação</strong> EAD na Uninter:</p>
+<p style="line-height: 1.4; text-align: justify;"><!-- /wp:paragraph --></p>
+<p style="text-align: justify;"><!-- wp:image {"id":2337,"sizeSlug":"large","linkDestination":"none"} --></p>
+<figure style="text-align: justify;"><img decoding="async" src="https://tuliolopes.info/files/2023/05/image-1.png?w=406" alt="" /></figure>
+<p style="line-height: 1.4; text-align: justify;"><!-- /wp:image --></p>
+<p style="text-align: justify;"><!-- wp:paragraph {"align":"justify"} --></p>
+<p style="text-align: justify;">A atuação digital é uma realidade presente em todas as empresas e se torna decisiva naquelas ligadas a inovações e tecnologias. É nesse contexto que o trabalho desenvolvido pelo profissional especializado em questões digitais se torna mais intenso e adquire importância. Esse profissional de perfil inovador lida com práticas invasivas em redes sociais, utilização de tecnologias no mundo jurídico e no Poder Judiciário. Foi pensando nisso que o Curso de Pós-Graduação em Direito Digital, Compliance e LGPD foi desenvolvido, tendo como maior a formação e capacitação de profissionais para trabalharem na área do direito, na área de tecnologia e segurança da informação para que atuem garantindo o trabalho em conformidade com a legislação vigente.O Curso busca proporcionar o aprofundamento em temas relacionados ao Direito Digital, Compliance e LGPD. Capacitar o profissional especificamente no Direito Digital, Compliance e LGPD, para que o seu desempenho na área possa ter como diferencial os conhecimentos teóricos e práticos adquiridos no curso.</p>
+<p style="line-height: 1.4; text-align: justify;"><!-- /wp:paragraph --></p>
+<p style="text-align: justify;"><!-- wp:paragraph --></p>
+<p style="text-align: justify;">Início: 18/03/2023</p>
+<p style="text-align: justify;">Dentro de todas as minhas atribuições, fui convidado a ser um Brigadista -Participando da Brigada de Socorro (Treinamento em primeiros socorros), fazendo parte de um equipe maior, contando com várias outras Brigadas de Emergência da Venax.</p>
+<p style="text-align: justify;"><a href="https://tuliolopes.info/wp-content/uploads/2023/07/IMG-20230627-WA0016.jpg" target="_blank" rel="noopener">Link1, </a><a href="https://tuliolopes.info/wp-content/uploads/2022/06/cartaobrigadista.png" target="_blank" rel="noopener">Link2</a>, <a href="https://tuliolopes.info/wp-content/uploads/2022/06/brigadista2.png" target="_blank" rel="noopener">Link3</a></p>
+<p style="text-align: justify;"><!-- /wp:paragraph --></p>
+<p style="text-align: justify;"><!-- wp:paragraph --></p>
+<p style="text-align: justify;"><!-- /wp:paragraph --></p>
+<p style="text-align: justify;"><!-- /wp:paragraph --></p>
+<p style="text-align: justify;"><!-- /wp:column --></p>
+<p style="text-align: justify;"><!-- wp:paragraph --></p>
+<p><a href="https://tuliolopes.info/resiliencia/"><button>Voltar</button></a></p>
+<p style="text-align: justify;"><!-- /wp:paragraph --></p>
+<p style="text-align: justify;"><!-- wp:paragraph {"align":"right","className":"has-text-align-right"} --></p>
+<p style="text-align: right;"><a href="https://tuliolopes.info/jci-um-novo-convite/"><button>Avançar</button></a></p>
+<p style="text-align: justify;"><!-- /wp:paragraph --></p>
+<p style="text-align: justify;"><!-- wp:paragraph {"align":"right"} --></p>
+<p style="text-align: justify;"> </p>
+<p style="text-align: justify;"><!-- /wp:paragraph --></p>
+<p style="text-align: justify;"><!-- wp:paragraph --></p>
+<p style="text-align: justify;"> </p>
+<p style="text-align: justify;"><!-- /wp:paragraph --></p>
+<!-- /wp:columns -->
+<p style="text-align: justify;"> </p>
+<p style="text-align: justify;"><!-- /wp:paragraph --></p>
+<!-- /wp:paragraph -->]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">2246</post-id>	</item>
+		<item>
+		<title>Resiliência&#8230;</title>
+		<link>https://tuliolopes.info/resiliencia/</link>
+		
+		<dc:creator><![CDATA[tuliolopes@hotmail.com]]></dc:creator>
+		<pubDate>Thu, 26 Aug 2021 19:26:20 +0000</pubDate>
+				<category><![CDATA[Projetos]]></category>
+		<guid isPermaLink="false">https://tuliolopes.info/?p=2224</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[
+<p><a href="https://tuliolopes.info/obrigado-pucrs/"><button>Voltar</button></a> </p>
+
+<p class="has-drop-cap has-text-align-justify" style="text-align: justify;">Aprendibilidade mais uma palavra que o mestre Leandro Karnal, imputou em meu dicionário. Acredito que nada mais claro que isso possa ser dito com relação ao título &#8220;Resiliência&#8221;; Se você já se rendeu e acha que tudo que sabe lhe basta, acredite no que eu digo: &#8220;Um grande NÂO, é a resposta!&#8221; Nunca basta, mesmo que faça como eu, de 3 em 3 dias, de alguns meses do ano, quando achar oportuno, e precisar esvaziar a mente dos problemas, encha-a de conhecimento!</p>
+
+
+
+<p style="text-align: justify;">Desta vez, do dia 23 à 26 de agosto de 2021. obtive mais um <a href="https://tuliolopes.info/files/2021/08/puc-certificado-em-lideranca-capacidade-de-aprender-e-resiliencia..png" target="_blank" rel="noreferrer noopener">Certificado</a>!</p>
+
+
+
+<figure style="text-align: justify;"><img loading="lazy" decoding="async" src="https://tuliolopes.info/files/2021/08/lideranca-capacidade-de-aprednder-e-resiliencia..png" alt="" width="758" height="328" /></figure>
+
+
+
+<p style="text-align: justify;">O Curso contou com <a href="https://guiadoestudante.abril.com.br/blog/atualidades-vestibular/conheca-a-historia-da-ativista-malala-yousafzai/" target="_blank" rel="noreferrer noopener">Malala Yousafzai</a>, Leandro Karnal e <a href="https://www.suno.com.br/tudo-sobre/flavio-augusto-da-silva/" target="_blank" rel="noreferrer noopener">Flávio Augusto </a>.</p>
+
+
+
+<p style="text-align: justify;">Indiscutivelmente todos os três demonstram Liderança, Capacidade de Aprender e uma incrível e inquebrantável Resiliência.</p>
+
+
+
+<p style="text-align: justify;">A História de vida de Malala é tão chocante quanto surpreendente, além de simples ela não perde o foco e diz com todas as letras que &#8220;O mundo precisa mudar, alguém tem que começar!&#8221;.</p>
+
+
+
+<p style="text-align: justify;">O Mestre Karnal não necessita de apresentações!</p>
+
+
+
+<p style="text-align: justify;">Já Flávio Augusto passou por dentro de todas as áreas da Administração, Contabilidade, Recursos Humanos e Liderança, uma lição bem dada para quem quer empreender, principalmente no ramo de Idiomas.</p>
+
+
+
+<p style="text-align: justify;">Como de costume, segue o <a href="https://tuliolopes.info/files/2021/08/livro-do-curso-lideranca-capacidade-de-aprender-e-resiliencia.pdf" target="_blank" rel="noreferrer noopener">Ebook</a> do curso.</p>
+
+
+
+<p style="text-align: justify;">Boa leitura!</p>
+
+
+
+<p style="text-align: justify;">Até a próxima e que Deus nos abençoe!</p>
+
+
+
+<p><a href="https://tuliolopes.info/obrigado-pucrs/"><button>Voltar</button></a></p>
+
+
+
+<p style="text-align: right;"><a href="https://tuliolopes.info/uma-nova-porta-se-abre/"><button>Avançar</button></a></p>
+
+<p style="text-align: justify;"> </p>
+
+<p>&nbsp;</p>]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">2224</post-id>	</item>
+		<item>
+		<title>Obrigado PUCRS !</title>
+		<link>https://tuliolopes.info/obrigado-pucrs/</link>
+		
+		<dc:creator><![CDATA[tuliolopes@hotmail.com]]></dc:creator>
+		<pubDate>Mon, 14 Jun 2021 23:56:34 +0000</pubDate>
+				<category><![CDATA[Projetos]]></category>
+		<guid isPermaLink="false">https://tuliolopes.info/?p=2174</guid>
+
+					<description><![CDATA[Voltar Não tenho palavras para agradecer a PUCRS, por ofertar cursos online gratuitamente com personalidades desta magnitude! &#160; &#160; Nos dias 12 e 13 de junho assisti em torno de 2 e 30 min de aulas do curso que tinha]]></description>
+										<content:encoded><![CDATA[
+<p><a href="https://tuliolopes.info/segundo-semestre-de-2021/"><button>Voltar</button></a></p>
+
+<p class="has-drop-cap has-text-align-justify" style="text-align: justify;">Não tenho palavras para agradecer a PUCRS, por ofertar cursos online gratuitamente com personalidades desta magnitude!</p>
+
+
+
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p style="text-align: justify;">Nos dias 12 e 13 de junho assisti em torno de 2 e 30 min de aulas do curso que tinha o seguinte enunciado: &#8220;<strong>Como Alcançar Objetivos Profissionais e Metas Financeiras</strong>&#8221; com estes senhores:</p>
+<p class="has-drop-cap has-text-align-justify">
+
+</p>
+<figure style="text-align: justify;"><img decoding="async" src="https://tuliolopes.info/files/2019/10/como-alcancar-objetivos-e-metas-financeiras-folder.png" alt="" /></figure>
+<p class="has-drop-cap has-text-align-justify">
+
+</p>
+<p class="has-text-align-justify">Posso dizer: &#8220;Foi de uma experiência!&#8221; das mais gratas que já tive, pois minhas expectativas principalmente quanto ao assunto Objetivos Profissionais sempre foi meio que um &#8220;tabu&#8221;, aquilo que todo mundo sabe o que é mas ninguém fala sobre isso! Sidnei Oliveira &#8211; O cara é o que dizem, um expert no assunto sem falsa modéstia.</p>
+<p class="has-drop-cap has-text-align-justify">
+
+</p>
+<p class="has-text-align-justify">Já no que diz respeito a Metas Financeiras ficou dentro do que todo mundo já conhece, mas um grande bônus foi que Leandro Raissier, &#8220;matou a cobra e mostrou o pau&#8221;, diferente dos demais ele além de mostrar como fazer as aplicações e rendimentos e fez planilhas mostrando e interagindo com alunos do básico ao avançado de renda fixa à variável. Só posso é dar de palmas a esse Cara aí também!</p>
+<p class="has-drop-cap has-text-align-justify">
+
+</p>
+<p style="text-align: justify;">Como de costume, deixo aqui o link do material:</p>
+<p>
+
+</p>
+<p style="text-align: justify;">Material Aula 1- Sidnei Oliveira <a href="https://tuliolopes.info/files/2019/10/objetivos-e-metas-aula-1.pdf">clique aqui</a>.</p>
+<p>
+
+</p>
+<p style="text-align: justify;">Material Aula 2 &#8211; Leandro Raisser <a href="https://tuliolopes.info/files/2019/10/objetivos-e-metas-aula-2.pdf">clique aqui</a>.</p>
+<p>
+
+</p>
+<p style="text-align: justify;">Livro do Curso &#8211; <a href="https://tuliolopes.info/files/2019/10/como-alcancar-objetivos-profissionais-e-metas-financeiras.pdf">clique aqui</a>.</p>
+<p>
+
+</p>
+<p style="text-align: justify;"> </p>
+<p>
+
+</p>
+<p style="text-align: justify;">Obrigado PUCRS por mais este <strong><a href="https://tuliolopes.info/certificados/" target="_blank" rel="noreferrer noopener">Certificado</a></strong>.</p>
+<p>
+
+</p>
+<p>
+
+</p>
+<p> <a href="https://tuliolopes.info/segundo-semestre-de-2021/"><button>Voltar</button></a> </p>
+<p style="text-align: right;"> <a href="https://tuliolopes.info/resiliencia/"><button>Avançar</button></a> </p>
+<p>&nbsp;</p>
+<p class="has-text-align-right">
+
+</p>
+<p>&nbsp;</p>
+<p class="has-text-align-right"></p>]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">2174</post-id>	</item>
+		<item>
+		<title>Segundo Semestre de 2021</title>
+		<link>https://tuliolopes.info/segundo-semestre-de-2021/</link>
+		
+		<dc:creator><![CDATA[tuliolopes@hotmail.com]]></dc:creator>
+		<pubDate>Sun, 06 Jun 2021 21:04:31 +0000</pubDate>
+				<category><![CDATA[Projetos]]></category>
+		<guid isPermaLink="false">https://tuliolopes.info/?p=2058</guid>
+
+					<description><![CDATA[Voltar Não obstante do que sempre faço, este 2021 tem sido de muitos desafios, mas assim mesmo me inscrevi em mais um curso, agora que já sei &#8220;O caminho das Pedras&#8221;. Este novo, curso chega bem em uma época da]]></description>
+										<content:encoded><![CDATA[
+<p><a href="https://tuliolopes.info/em-tempos-de-mudanca/"><button>Voltar</button></a></p>
+<p class="has-drop-cap has-text-align-justify" style="text-align: justify;">Não obstante do que sempre faço, este 2021 tem sido de muitos desafios, mas assim mesmo me inscrevi em mais um curso, agora que já sei &#8220;O caminho das Pedras&#8221;.</p>
+
+
+
+<p class="has-text-align-justify" style="text-align: justify;">Este novo, curso chega bem em uma época da vida tanto pessoal quanto profissional, que precisamos, se ainda não o fizemos, começar a responder certas perguntas:</p>
+
+
+
+<p style="text-align: justify;">Qual o sentido da vida? Qual nosso propósito? e por aí a fora&#8230;.</p>
+
+
+
+<p style="text-align: justify;">Foi então que me deparei com isto:</p>
+
+
+
+<figure class="wp-block-image size-large" style="text-align: justify;"><img decoding="async" class="wp-image-2070" src="https://tuliolopes.info/files/2021/06/tela-curso-1.png?w=610" alt="" /></figure>
+
+
+
+<p style="text-align: justify;"><strong>O conteúdo oferecido foi muito bem embasado e explorado em todo seu potencial:</strong></p>
+
+
+
+<ul class="wp-block-list">
+<li style="list-style-type: none;">
+<ul style="text-align: justify; list-style-type: disc;">
+<li>Métodos de organização</li>
+<li>Gestão do tempo em equipes</li>
+<li>Equilíbrio e produtividade</li>
+<li>Felicidade x Trabalho</li>
+<li>Trabalho com propósito</li>
+<li>Equipes engajadas</li>
+</ul>
+</li>
+</ul>
+
+
+
+<p>&nbsp;</p>
+<p class="has-text-align-justify" style="text-align: justify;">Comecei o curso no ´sábado 05 de junho, já passavam das 22:30. Quando não consigo dormir, fico tentando ser uma pessoa melhor para não ficar procrastinado ou pensando nos problemas .</p>
+
+
+
+<p class="has-text-align-justify" style="text-align: justify;">Na tarde do domingo, 06 de junho, terminei de assistir as vídeo aulas e de fazer os testes.</p>
+
+
+
+<p style="text-align: justify;">o 1º Teste o Professor Christian Barbosa que nos introduziu à Gestão do Tempo, nos passou este link:</p>
+
+
+
+<p style="text-align: justify;"><a href="https://teste.triadps.com/" target="_blank" rel="noreferrer noopener">https://teste.triadps.com/</a></p>
+
+
+
+<p class="has-text-align-justify" style="text-align: justify;">Nele você pode realizar o teste chamado Tríade do tempo &#8211; Importante que você entenda onde está errando, onde está acertando e onde precisa melhorar. (Circunstancial, Urgente e Importante)</p>
+
+
+
+<p style="text-align: justify;">Segue o meu: <a href="https://tuliolopes.info/files/2021/06/teste-triade-do-tempo-tulio-lopes_-triad-ps.pdf" target="_blank" rel="noreferrer noopener">Teste Tríade do Tempo</a></p>
+
+
+
+<p class="has-text-align-justify" style="text-align: justify;">O 2º foi um teste muito interessante, onde a Professora Carla Furtado nos faz perguntar &#8220;O que há de certo comigo?&#8221;</p>
+
+
+
+<p style="text-align: justify;"><a href="https://www.viacharacter.org/survey/account/register?registerPageType=popup" target="_blank" rel="noreferrer noopener">https://www.viacharacter.org/survey/account/register?registerPageType=popup</a></p>
+
+
+
+<p class="has-text-align-justify" style="text-align: justify;">Aqui você participa de uma pesquisa gratuita onde seus pontos fortes são elencados e pode-se fazer download do teste para futuras comparações:</p>
+
+
+
+<p style="text-align: justify;">Segue o meu: <a href="https://tuliolopes.info/files/2021/06/strengthsprofile-tulio-lopes.pdf" target="_blank" rel="noreferrer noopener">StrengthsProfile</a></p>
+
+
+
+<p style="text-align: justify;">Como não poderia deixar de fazer, segue o material de aula: <a href="https://tuliolopes.info/files/2021/06/produtividadegestaodotempoeproposito.pdf" target="_blank" rel="noreferrer noopener">Livro do Curso</a>, vale à pena dar uma olhada.</p>
+
+
+
+<p class="has-text-align-justify" style="text-align: justify;"><span style="font-size: 12pt;">Com isso fui <a href="https://tuliolopes.info/certificados/" target="_blank" rel="noreferrer noopener">certificado</a> por ter participado do curso &#8221; <strong>Produtividade, Gestão do Tempo e Propósito</strong>&#8220;.</span></p>
+
+
+
+
+
+
+
+<p style="text-align: justify;"><a href="https://tuliolopes.info/em-tempos-de-mudanca/"><button>Voltar</button></a></p>
+
+
+
+<p style="text-align: right;"><a href="https://tuliolopes.info/obrigado-pucrs/"><button>Avançar</button></a></p>
+<p style="text-align: right;"> </p>
+
+<p class="has-text-align-right"> </p>
+
+
+
+<p>&nbsp;</p>
+]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">2058</post-id>	</item>
+		<item>
+		<title>&#8230;em tempos de mudança!</title>
+		<link>https://tuliolopes.info/em-tempos-de-mudanca/</link>
+		
+		<dc:creator><![CDATA[tuliolopes@hotmail.com]]></dc:creator>
+		<pubDate>Sun, 30 Aug 2020 00:55:44 +0000</pubDate>
+				<category><![CDATA[Projetos]]></category>
+		<guid isPermaLink="false">https://tuliolopes.info/?p=1979</guid>
+
+					<description><![CDATA[&#160; Voltar &#160; Mais um aprendizado, este foi enriquecedor, haja visto que o tema deste curso não poderia ter sido melhor escolhido e em melhor hora! Só espero, que um dia, nem que seja para minhas filhas, eu possa repassar]]></description>
+										<content:encoded><![CDATA[<p>&nbsp;</p>
+<p><a href="https://tuliolopes.info/homenagem-no-meu-aniversario/"><button>Voltar</button></a></p>
+<p>&nbsp;</p>
+<p class="has-drop-cap has-text-align-justify" style="text-align: justify;">Mais um aprendizado, este foi enriquecedor, haja visto que o tema deste curso não poderia ter sido melhor escolhido e em melhor hora!</p>
+<p style="text-align: justify;">Só espero, que um dia, nem que seja para minhas filhas, eu possa repassar este conhecimento!</p>
+<p>&nbsp;</p>
+<p style="text-align: justify;">Então nos dias que antecedem este relato, entre os dias 02 e 03 de agosto de 2020, recebi mais um convite da Universidade Católica de Porto Alegre &#8211; PUCRS, onde Leandro karnal, já conhecido, seria um dos palestrantes, mas a outra personalidade me intrigou muito, Professora Luiza Helena Trajano, nada mais nada menos do que a dona da Magazine Luiza.</p>
+
+<figure><img loading="lazy" decoding="async" class="alignleft" src="https://tuliolopes.info/files/2020/08/mkt-leandro-karnal-e-luiza-hlena-trajano.png?w=506" alt="" width="410" height="263" /></figure>
+<p>&nbsp;</p>
+<p style="text-align: justify;">Sem pestanejar me inscrevi no curso, que teria uma duração de 4 horas separada em 6 módulos de 30min cada. O curso começaria no dia 24 de agosto com fim das aulas programados para domingo dia 30 de agosto.Dentro do escopo, consegui assistir aos primeiros módulos em um dia e os demais no dia seguinte. Diga-se: &#8220;Noites&#8221;!</p>
+<figure style="text-align: justify;"></figure>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p style="text-align: justify;">Fui certificado então por ter participado do Curso de Extensão:</p>
+<p style="text-align: justify;">“<strong>Competências Profissionais, Emocionais e Tecnológicas Para Tempos de Mudança</strong>”, todo o curso desde o nome até os palestrantes me chamaram muita atenção, foi uma grata surpresa para que almeja o conhecimento assim como Eu.</p>
+<p style="text-align: justify;">Então como o anterior, o curso foi 100% online e gratuito. Parabéns à PUCRS, excelente plataforma e tema!</p>
+<p style="text-align: justify;">Deixo aqui o material:</p>
+<p style="text-align: justify;">Clique <a href="https://tuliolopes.info/files/2020/08/livro-do-curso-competncias-profissionais-emocionais-e-tecnolgicas-para-tempos-de-mudana.pdf" target="_blank" rel="noreferrer noopener">aqui</a> para baixar o Livro do Curso</p>
+<p style="text-align: justify;">Que Deus nos Abençoe!</p>
+<p><a href="https://tuliolopes.info/homenagem-no-meu-aniversario/"><button>Voltar</button></a></p>
+<p>&nbsp;</p>
+<p style="text-align: right;"><a href="https://tuliolopes.info/segundo-semestre-de-2021/"><button>Avançar</button></a></p>
+<p style="text-align: right;"> </p>]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">1979</post-id>	</item>
+		<item>
+		<title>Homenagem no meu aniversário!</title>
+		<link>https://tuliolopes.info/homenagem-no-meu-aniversario/</link>
+		
+		<dc:creator><![CDATA[tuliolopes@hotmail.com]]></dc:creator>
+		<pubDate>Tue, 12 Nov 2019 00:48:10 +0000</pubDate>
+				<category><![CDATA[Projetos]]></category>
+		<guid isPermaLink="false">https://tuliolopes.info/?p=1614</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[<p style="text-align: justify;"></p>
+<p><a href="https://tuliolopes.info/lll-lifelong-learning/"><button>Voltar</button></a></p>
+
+<p class="has-drop-cap has-text-align-justify" style="text-align: justify;">No dia 11 de Novembro de 2019, em uma rede social conhecida, o renomado colunista do maior jornal de nosso município me fez uma homenagem!</p>
+<p style="text-align: justify;">
+
+</p>
+<p style="text-align: justify;"> </p>
+<p>&nbsp;</p>
+<p style="text-align: justify;">Se Trata de Jorge Lusan, o qual foi meu colega no serviço público por quase 8 anos. Em meu aniversário (e de meu irmão gêmeo Marco) de 47 anos, posto o que segue:</p>
+<p style="text-align: justify;">
+
+
+
+</p>
+<figure class="is-layout-flex wp-container-core-columns-is-layout-28f84493 wp-block-columns-is-layout-flex" style="text-align: justify;"><img loading="lazy" decoding="async" class="" src="https://tuliolopes.info/files/2021/06/image.png?w=671" alt="" width="1095" height="91" /></figure>
+<p>&nbsp;</p>
+<p style="text-align: justify;">As agruras da vida se transforma com alegria e sorrisos. Numa época tive dificuldades de identificá-lo em relação ao mano. Mas de repente nos tornamos colegas e amigos no serviço público, quando consegui diferencia-lo. É gente boa demais, de alto nível sempre de bom humor, se pagasse imposto pra rir, estaria pobre,além disso é humano, simples, humilde e inteligente. Neste 11 de novembro comemora a chegada de mais um capitulo da história de vida. Feliz aniversário amigo</p>
+<p style="text-align: justify;">Tulio Lopes.</p>
+<figure style="text-align: justify;"><img loading="lazy" decoding="async" class="alignleft" src="https://tuliolopes.info/files/2021/06/image-1.png" alt="" width="273" height="255" /></figure>
+<p style="text-align: justify;"> </p>
+<p style="text-align: justify;">Recebi inúmeros posts e comentários de familiares , mas o mais agradável, que como foi uma publicação de uma pessoa muito conhecida, recebi felicitações de amigos e colegas que não tinha notícias há muitos anos.</p>
+<p style="text-align: justify;"> </p>
+<p style="text-align: right;"><span style="font-size: 12pt;">O que posso dizer? &#8220;Muito Obrigado Jorge!&#8221;</span></p>
+<p style="text-align: justify;">
+
+</p>
+<p style="text-align: justify;">
+
+</p>
+<p style="text-align: justify;"> <a href="https://tuliolopes.info/lll-lifelong-learning/"><button>Voltar</button></a> </p>
+<p style="text-align: right;"> <a href="https://tuliolopes.info/em-tempos-de-mudanca/"><button>Avançar</button></a></p>]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">1614</post-id>	</item>
+		<item>
+		<title>LLL -LifeLong Learning</title>
+		<link>https://tuliolopes.info/lll-lifelong-learning/</link>
+		
+		<dc:creator><![CDATA[tuliolopes@hotmail.com]]></dc:creator>
+		<pubDate>Sun, 03 Nov 2019 15:32:34 +0000</pubDate>
+				<category><![CDATA[Projetos]]></category>
+		<guid isPermaLink="false">https://tuliolopes.info/?p=1588</guid>
+
+					<description><![CDATA[Voltar &#160; É como diz o título &#8211; LifeLong Learning &#8211; &#8220;Aprendendo a Vida Toda&#8221;! No dia 02 de novembro de 2019 fui certificado pela Potifícia Universidade Católica do Rio Grande do Sul (PUCRS), por ter participado do Curso de]]></description>
+										<content:encoded><![CDATA[<p><a href="https://tuliolopes.info/atualmente-continuando/"><button>Voltar</button></a></p>
+<p>&nbsp;</p>
+
+<p class="has-drop-cap has-text-align-justify" style="text-align: justify;">É como diz o título &#8211; LifeLong Learning &#8211; &#8220;Aprendendo a Vida Toda&#8221;!</p>
+<p style="text-align: justify;">No dia 02 de novembro de 2019 fui <a href="https://tuliolopes.info/certificados/" target="_blank" rel="noreferrer noopener" aria-label=" (abre em uma nova aba)">certificado</a> pela Potifícia Universidade Católica do Rio Grande do Sul (<a href="https://online.pucrs.br/" target="_blank" rel="noreferrer noopener" aria-label="PUCRS (abre em uma nova aba)">PUCRS</a>), por ter participado do Curso de Extensão:</p>
+<p>&nbsp;</p>
+<p style="text-align: justify;"><!-- /wp:post-content -->
+
+<!-- wp:paragraph {"align":"justify"} --></p>
+<p style="text-align: justify;"><!-- /wp:paragraph -->
+
+<!-- wp:image {"sizeSlug":"large"} --></p>
+<figure style="text-align: justify;"><img loading="lazy" decoding="async" src="https://tuliolopes.info/files/2019/11/lifeloglearning.png" alt="" width="387" height="233" /></figure>
+<p style="text-align: justify;"><!-- /wp:image -->
+
+<!-- wp:paragraph --></p>
+<p style="text-align: justify;"><strong>Mentalidade de Desenvolvimento Contínuo</strong>, da Escola de Negócios da PUCRS.</p>
+<p style="text-align: justify;">O curso foi ministrado por duas grandes mentes no assunto: <a href="https://www.youtube.com/watch?v=0lCbhWBeDDc" target="_blank" rel="noreferrer noopener" aria-label="Leandro Karnal (abre em uma nova aba)">Leandro Karnal</a> e <a href="https://www.youtube.com/watch?v=9sfMLo5aTLQ" target="_blank" rel="noreferrer noopener" aria-label="André Hartmann Duhá (abre em uma nova aba)">André Hartmann Duhá</a>.</p>
+<p style="text-align: justify;"><!-- /wp:paragraph -->
+
+<!-- wp:paragraph --></p>
+<p style="text-align: justify;"><!-- /wp:paragraph -->
+
+<!-- wp:paragraph {"align":"justify"} --></p>
+<p style="text-align: justify;">O curso foi gratuito e oferecido ao público em geral. Por isso é tão importante sempre estar ligado, pesquisar sobre novos assuntos (estar aberto à novas oportunidades), assim como Karnal diz: &#8220;Ou você aprende ou você fica para trás&#8221;.</p>
+<p style="text-align: justify;"><!-- /wp:paragraph -->
+
+<!-- wp:paragraph {"align":"justify"} --></p>
+<p style="text-align: justify;">Como foi um curso gratuito, também me gera uma vontade de compartilhar tudo o que aprendi.</p>
+<p style="text-align: justify;"><!-- /wp:paragraph -->
+
+<!-- wp:paragraph --></p>
+<p style="text-align: justify;">Então seguem os links do curso:</p>
+<p style="text-align: justify;"><!-- /wp:paragraph -->
+
+<!-- wp:paragraph --></p>
+<p style="text-align: justify;">Clique <a href="https://tuliolopes.info/files/2019/11/mentalidade-dedesenvolvimento-continuo.pdf" target="_blank" rel="noreferrer noopener" aria-label="aqui  (abre em uma nova aba)">aqui </a>para baixar o livro (PDF).</p>
+<p style="text-align: justify;"><!-- /wp:paragraph -->
+
+<!-- wp:paragraph --></p>
+<p style="text-align: justify;">Clique <a href="https://tuliolopes.info/files/2019/11/karnal.pdf" target="_blank" rel="noreferrer noopener" aria-label="aqui (abre em uma nova aba)">aqui</a> para baixar as aulas do Prof. Leandro karnal + exercícios (PDF).</p>
+<p style="text-align: justify;"><!-- /wp:paragraph -->
+
+<!-- wp:paragraph --></p>
+<p style="text-align: justify;">Clique <a href="https://tuliolopes.info/files/2019/11/duhc3a1.pdf" target="_blank" rel="noreferrer noopener" aria-label="aqui (abre em uma nova aba)">aqui</a> para baixar as aulas do Prof. André Duhá + exercícios (PDF).</p>
+<p style="text-align: justify;"><!-- /wp:paragraph -->
+
+<!-- wp:paragraph --></p>
+<p style="text-align: justify;">Tomara que possa ter contribuído para com sua jornada!</p>
+<p style="text-align: justify;"><!-- /wp:paragraph -->
+
+<!-- wp:paragraph --></p>
+<p style="text-align: justify;"><!-- /wp:paragraph -->
+
+<!-- wp:paragraph --></p>
+<p style="text-align: justify;"><!-- /wp:paragraph --> <a href="https://tuliolopes.info/atualmente-continuando/"><button>Voltar</button></a> <!-- wp:paragraph {"align":"right"} --></p>
+<p style="text-align: right;"><!-- /wp:paragraph --> <a href="https://tuliolopes.info/homenagem-no-meu-aniversario/"><button>Avançar</button></a></p>]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">1588</post-id>	</item>
+	</channel>
+</rss>
