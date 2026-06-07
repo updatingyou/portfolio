@@ -107,49 +107,54 @@ document.addEventListener("DOMContentLoaded", function () {
 <link rel="apple-touch-icon" href="https://tuliolopes.name/wp-content/uploads/2023/07/portfolio.png">
 <meta name="msapplication-TileImage" content="https://tuliolopes.name/wp-content/uploads/2023/07/portfolio.png">
 <style id="wp-custom-css">
+/* HEADER FIXO CORRIGIDO */
 .header {
-  position: fixed;
-  top: 10px;
+  position: fixed !important;
+  top: 0;
+  left: 0;
   width: 100%;
-  z-index: 9999;
+  z-index: 99999;
+  background: #fff;
+  box-shadow: 0 2px 10px rgba(0,0,0,0.08);
 }
-.nv-content-wrap {
-  margin-top: 155px;
+
+/* EVITA O CONTEÚDO FICAR ATRÁS DO HEADER */
+body {
+  padding-top: 110px !important;
 }
+
+/* AJUSTE DO CONTAINER PRINCIPAL (Neve / WordPress comum) */
+.nv-content-wrap,
+.site-content,
+.container,
+.content-wrap {
+  margin-top: 0 !important;
+  padding-top: 0 !important;
+}
+
+/* LOGO */
 .site-logo img {
   border: 2px solid #0073aa;
-  padding: 5px;
+  padding: 1px;
   border-radius: 8px;
   background-color: #e0f0ff;
   transition: all 0.3s ease;
 }
 
-.site-logo img:hover {
-  background-color: #0073aa;
-  border-color: #005177;
-  transform: scale(1.05);
-}
-.has-drop-cap::first-letter {
-  float: left;
-  font-size: 3em;
-  line-height: 1;
-  padding-right: 8px;
-  font-weight: bold;
-  text-transform: uppercase;
-}
-.h1.entry-title, .page-title {
-    margin-bottom: 10px !important; /* Ajuste o valor (10px) conforme necessário */
-}
+/* MOBILE AJUSTE */
+@media (max-width: 100px) {
+  body {
+    padding-top: 90px !important;
+  }
 
-.entry-content {
-    margin-top: 0 !important; /* Remove ou reduz a margem superior do conteúdo */
+  .header {
+    padding: 8px 10px;
+  }
+
+  .site-logo img {
+    max-height: 100px;
+  }
 }
-.nome-do-overlay {
-    pointer-events: none !important;
-}
-
-
-
 </style>
 
 	</head>
@@ -343,8 +348,8 @@ document.addEventListener("DOMContentLoaded", function () {
 				<h1>Mapa do Site</h1>
 					</div><!--.nv-page-title-->
 </div> <!--.nv-page-title-wrap-->
-	<div class="nv-content-wrap entry-content"><style type="text/css">.simple-sitemap-container-6a24cd3c65e5f.tab-enabled .panel { border-top: 4px solid #de5737; } .simple-sitemap-container-6a24cd3c65e5f.tab-enabled input:checked + label { background-color: #de5737; } .simple-sitemap-container-6a24cd3c65e5f.tab-enabled input:checked + label > * { color: #ffffff; } </style><div id="simple-sitemap-container-6a24cd3c65e5f" class="simple-sitemap-container simple-sitemap-container-6a24cd3c65e5f tab-enabled"><input type="radio" name="tab-6a24cd3c65e5f" id="simple-sitemap-tab-1-6a24cd3c65e5f" checked>
-				<label style="&quot;padding:10px" for="simple-sitemap-tab-1-6a24cd3c65e5f"><h3 class="post-type">Páginas</h3></label><div class="simple-sitemap-content"><div class="simple-sitemap-wrap simple-sitemap-tab-1 panel"><ul class="simple-sitemap-page main"><li class="sitemap-item page_item page-item-4686"><a href="https://tuliolopes.name/galeria/">Galeria</a></li>
+	<div class="nv-content-wrap entry-content"><style type="text/css">.simple-sitemap-container-6a25d3898ddc2.tab-enabled .panel { border-top: 4px solid #de5737; } .simple-sitemap-container-6a25d3898ddc2.tab-enabled input:checked + label { background-color: #de5737; } .simple-sitemap-container-6a25d3898ddc2.tab-enabled input:checked + label > * { color: #ffffff; } </style><div id="simple-sitemap-container-6a25d3898ddc2" class="simple-sitemap-container simple-sitemap-container-6a25d3898ddc2 tab-enabled"><input type="radio" name="tab-6a25d3898ddc2" id="simple-sitemap-tab-1-6a25d3898ddc2" checked>
+				<label style="&quot;padding:10px" for="simple-sitemap-tab-1-6a25d3898ddc2"><h3 class="post-type">Páginas</h3></label><div class="simple-sitemap-content"><div class="simple-sitemap-wrap simple-sitemap-tab-1 panel"><ul class="simple-sitemap-page main"><li class="sitemap-item page_item page-item-4686"><a href="https://tuliolopes.name/galeria/">Galeria</a></li>
 <li class="sitemap-item page_item page-item-3990"><a href="https://tuliolopes.name/mapa-do-site/">Mapa do Site</a></li>
 <li class="sitemap-item page_item page-item-4762"><a href="https://tuliolopes.name/certificados/">Certificados</a></li>
 <li class="sitemap-item page_item page-item-7"><a href="https://tuliolopes.name/">Início</a></li>
@@ -354,8 +359,8 @@ document.addEventListener("DOMContentLoaded", function () {
 <li class="sitemap-item page_item page-item-46"><a href="https://tuliolopes.name/voluntariado/">Voluntariado</a></li>
 <li class="sitemap-item page_item page-item-8"><a href="https://tuliolopes.name/contato/">Contato</a></li>
 </ul></div></div></div><br style="clear: both;">
-<style type="text/css">.simple-sitemap-container-6a24cd3c6ca8c.tab-enabled .panel { border-top: 4px solid #de5737; } .simple-sitemap-container-6a24cd3c6ca8c.tab-enabled input:checked + label { background-color: #de5737; } .simple-sitemap-container-6a24cd3c6ca8c.tab-enabled input:checked + label > * { color: #ffffff; } </style><div id="simple-sitemap-container-6a24cd3c6ca8c" class="simple-sitemap-container simple-sitemap-container-6a24cd3c6ca8c tab-enabled"><input type="radio" name="tab-6a24cd3c6ca8c" id="simple-sitemap-tab-1-6a24cd3c6ca8c" checked>
-				<label style="&quot;padding:10px" for="simple-sitemap-tab-1-6a24cd3c6ca8c"><h3 class="post-type">Posts</h3></label><div class="simple-sitemap-content"><div class="simple-sitemap-wrap simple-sitemap-tab-1 panel"><ul class="simple-sitemap-post main"><li class="sitemap-item"><a href="https://tuliolopes.name/pmat/">PMAT</a></li><li class="sitemap-item"><a href="https://tuliolopes.name/infovia/">Infovia</a></li><li class="sitemap-item"><a href="https://tuliolopes.name/videomonitoramento/">Videomonitoramento</a></li><li class="sitemap-item"><a href="https://tuliolopes.name/o-reconhcimento/">O Reconhecimento!</a></li><li class="sitemap-item"><a href="https://tuliolopes.name/acoes/">Ações</a></li><li class="sitemap-item"><a href="https://tuliolopes.name/objmilenio/">Continuando…Ações</a></li><li class="sitemap-item"><a href="https://tuliolopes.name/oratoria/">Concursos</a></li><li class="sitemap-item"><a href="https://tuliolopes.name/continuando-4/">Campanhas</a></li><li class="sitemap-item"><a href="https://tuliolopes.name/continuando-5/">Continuando…Campanhas</a></li><li class="sitemap-item"><a href="https://tuliolopes.name/continuando-6/">Continuando…Concursos</a></li><li class="sitemap-item"><a href="https://tuliolopes.name/forum-internacional-de-educacao/">Educação</a></li><li class="sitemap-item"><a href="https://tuliolopes.name/upa-24h/">Saúde</a></li><li class="sitemap-item"><a href="https://tuliolopes.name/fotos-forum-da-educacao/">Fotos – Fórum de Educação</a></li><li class="sitemap-item"><a href="https://tuliolopes.name/concursos-oportunidades/">Concursos &amp; Oportunidades</a></li><li class="sitemap-item"><a href="https://tuliolopes.name/atualmente-continuando/">Atualmente – Conexões de Ideias</a></li><li class="sitemap-item"><a href="https://tuliolopes.name/lll-lifelong-learning/">LLL -LifeLong Learning</a></li><li class="sitemap-item"><a href="https://tuliolopes.name/homenagem-no-meu-aniversario/">Homenagem no meu aniversário!</a></li><li class="sitemap-item"><a href="https://tuliolopes.name/em-tempos-de-mudanca/">…em tempos de mudança!</a></li><li class="sitemap-item"><a href="https://tuliolopes.name/segundo-semestre-de-2021/">Segundo Semestre de 2021</a></li><li class="sitemap-item"><a href="https://tuliolopes.name/obrigado-pucrs/">Obrigado PUCRS !</a></li><li class="sitemap-item"><a href="https://tuliolopes.name/resiliencia/">Resiliência…</a></li><li class="sitemap-item"><a href="https://tuliolopes.name/uma-nova-porta-se-abre/">Uma nova porta se abre…</a></li><li class="sitemap-item"><a href="https://tuliolopes.name/jci-um-novo-convite/">JCI, um novo convite…</a></li><li class="sitemap-item"><a href="https://tuliolopes.name/entao-a-especializacao/">Então a Especialização…</a></li><li class="sitemap-item"><a href="https://tuliolopes.name/industria/">Indústria</a></li><li class="sitemap-item"><a href="https://tuliolopes.name/expansao-do-conhecimento/">Expansão do Conhecimento…</a></li><li class="sitemap-item"><a href="https://tuliolopes.name/relembrando-my-skills/">Relembrando… My hard skills</a></li><li class="sitemap-item"><a href="https://tuliolopes.name/reportagens-voluntariado/">Reportagens – Voluntariado</a></li><li class="sitemap-item"><a href="https://tuliolopes.name/galeria-profissional/">Fotos – Profissional</a></li><li class="sitemap-item"><a href="https://tuliolopes.name/galeria-voluntariado-fotos/">Fotos – Voluntariado</a></li><li class="sitemap-item"><a href="https://tuliolopes.name/apostando-na-educacao/">Apostando na Educação</a></li></ul></div></div></div><br style="clear: both;">
+<style type="text/css">.simple-sitemap-container-6a25d3898ee88.tab-enabled .panel { border-top: 4px solid #de5737; } .simple-sitemap-container-6a25d3898ee88.tab-enabled input:checked + label { background-color: #de5737; } .simple-sitemap-container-6a25d3898ee88.tab-enabled input:checked + label > * { color: #ffffff; } </style><div id="simple-sitemap-container-6a25d3898ee88" class="simple-sitemap-container simple-sitemap-container-6a25d3898ee88 tab-enabled"><input type="radio" name="tab-6a25d3898ee88" id="simple-sitemap-tab-1-6a25d3898ee88" checked>
+				<label style="&quot;padding:10px" for="simple-sitemap-tab-1-6a25d3898ee88"><h3 class="post-type">Posts</h3></label><div class="simple-sitemap-content"><div class="simple-sitemap-wrap simple-sitemap-tab-1 panel"><ul class="simple-sitemap-post main"><li class="sitemap-item"><a href="https://tuliolopes.name/pmat/">PMAT</a></li><li class="sitemap-item"><a href="https://tuliolopes.name/infovia/">Infovia</a></li><li class="sitemap-item"><a href="https://tuliolopes.name/videomonitoramento/">Videomonitoramento</a></li><li class="sitemap-item"><a href="https://tuliolopes.name/o-reconhcimento/">O Reconhecimento!</a></li><li class="sitemap-item"><a href="https://tuliolopes.name/acoes/">Ações</a></li><li class="sitemap-item"><a href="https://tuliolopes.name/objmilenio/">Continuando…Ações</a></li><li class="sitemap-item"><a href="https://tuliolopes.name/oratoria/">Concursos</a></li><li class="sitemap-item"><a href="https://tuliolopes.name/continuando-4/">Campanhas</a></li><li class="sitemap-item"><a href="https://tuliolopes.name/continuando-5/">Continuando…Campanhas</a></li><li class="sitemap-item"><a href="https://tuliolopes.name/continuando-6/">Continuando…Concursos</a></li><li class="sitemap-item"><a href="https://tuliolopes.name/forum-internacional-de-educacao/">Educação</a></li><li class="sitemap-item"><a href="https://tuliolopes.name/upa-24h/">Saúde</a></li><li class="sitemap-item"><a href="https://tuliolopes.name/fotos-forum-da-educacao/">Fotos – Fórum de Educação</a></li><li class="sitemap-item"><a href="https://tuliolopes.name/concursos-oportunidades/">Concursos &amp; Oportunidades</a></li><li class="sitemap-item"><a href="https://tuliolopes.name/atualmente-continuando/">Atualmente – Conexões de Ideias</a></li><li class="sitemap-item"><a href="https://tuliolopes.name/lll-lifelong-learning/">LLL -LifeLong Learning</a></li><li class="sitemap-item"><a href="https://tuliolopes.name/homenagem-no-meu-aniversario/">Homenagem no meu aniversário!</a></li><li class="sitemap-item"><a href="https://tuliolopes.name/em-tempos-de-mudanca/">…em tempos de mudança!</a></li><li class="sitemap-item"><a href="https://tuliolopes.name/segundo-semestre-de-2021/">Segundo Semestre de 2021</a></li><li class="sitemap-item"><a href="https://tuliolopes.name/obrigado-pucrs/">Obrigado PUCRS !</a></li><li class="sitemap-item"><a href="https://tuliolopes.name/resiliencia/">Resiliência…</a></li><li class="sitemap-item"><a href="https://tuliolopes.name/uma-nova-porta-se-abre/">Uma nova porta se abre…</a></li><li class="sitemap-item"><a href="https://tuliolopes.name/jci-um-novo-convite/">JCI, um novo convite…</a></li><li class="sitemap-item"><a href="https://tuliolopes.name/entao-a-especializacao/">Então a Especialização…</a></li><li class="sitemap-item"><a href="https://tuliolopes.name/industria/">Indústria</a></li><li class="sitemap-item"><a href="https://tuliolopes.name/expansao-do-conhecimento/">Expansão do Conhecimento…</a></li><li class="sitemap-item"><a href="https://tuliolopes.name/relembrando-my-skills/">Relembrando… My hard skills</a></li><li class="sitemap-item"><a href="https://tuliolopes.name/reportagens-voluntariado/">Reportagens – Voluntariado</a></li><li class="sitemap-item"><a href="https://tuliolopes.name/galeria-profissional/">Fotos – Profissional</a></li><li class="sitemap-item"><a href="https://tuliolopes.name/galeria-voluntariado-fotos/">Fotos – Voluntariado</a></li><li class="sitemap-item"><a href="https://tuliolopes.name/apostando-na-educacao/">Apostando na Educação</a></li></ul></div></div></div><br style="clear: both;">
 </div>		</div>
 			</div>
 </div>
@@ -454,7 +459,7 @@ document.addEventListener("DOMContentLoaded", function () {
         <script id="imagesloaded-js" src="https://tuliolopes.name/wp-includes/js/imagesloaded.min.js?ver=5.0.0"></script>
 <script id="masonry-js" src="https://tuliolopes.name/wp-includes/js/masonry.min.js?ver=4.2.2"></script>
 <script id="neve-script-js-extra">
-var NeveProperties = {"ajaxurl":"https://tuliolopes.name/wp-admin/admin-ajax.php","nonce":"6fc0dd72b8","isRTL":"","isCustomize":"","masonryStatus":"enabled","masonryColumns":"3","blogLayout":"grid"};
+var NeveProperties = {"ajaxurl":"https://tuliolopes.name/wp-admin/admin-ajax.php","nonce":"aeec5ae8ff","isRTL":"","isCustomize":"","masonryStatus":"enabled","masonryColumns":"3","blogLayout":"grid"};
 //# sourceURL=neve-script-js-extra
 </script>
 <script id="neve-script-js" src="https://tuliolopes.name/wp-content/themes/neve/assets/js/build/modern/frontend.js?ver=4.2.4" async></script>
